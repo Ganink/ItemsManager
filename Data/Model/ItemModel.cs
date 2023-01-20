@@ -1,4 +1,5 @@
 ﻿using System;
+using UnityEngine;
 using UnityEngine.UI;
 
 [Serializable]
@@ -7,7 +8,7 @@ public class ItemModel
     public string id;
     public string name;
     public string description;
-    public Image icon;
+    public Sprite icon;
     public string maxAmount;
     public ItemType itemType;
 }

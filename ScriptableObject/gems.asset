@@ -16,6 +16,6 @@ MonoBehaviour:
     id: gems
     name: Gems
     description: Gems to buy legendary objects in game.
-    icon: {fileID: 0}
+    icon: {fileID: 21300000, guid: 8ecbf6d483bb94edbb3f37016b13bfd0, type: 3}
     maxAmount: 64
     itemType: 3

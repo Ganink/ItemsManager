@@ -16,6 +16,6 @@ MonoBehaviour:
     id: gold
     name: Gold
     description: Gold to buy objects in game.
-    icon: {fileID: 0}
+    icon: {fileID: 21300000, guid: 7dfab3383b9b64b71a66a0e0c23b3827, type: 3}
     maxAmount: 64
     itemType: 2

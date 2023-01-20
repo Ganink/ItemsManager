@@ -16,6 +16,6 @@ MonoBehaviour:
     id: potion.life
     name: Potion Life
     description: Heal yourself +32 life points
-    icon: {fileID: 0}
+    icon: {fileID: 21300000, guid: 251d36e4fe6e04ccd8b548993db354ea, type: 3}
     maxAmount: 64
     itemType: 1
