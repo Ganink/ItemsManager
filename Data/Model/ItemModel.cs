@@ -8,7 +8,7 @@ public class ItemModel
     public string id;
     public string name;
     public string description;
-    public Sprite icon;
+    public string icon;
     public string maxAmount;
     public ItemType itemType;
 }
